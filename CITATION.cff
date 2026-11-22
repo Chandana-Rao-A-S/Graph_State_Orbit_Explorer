@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "Graph State Orbit Explorer"
+abstract: >-
+  Desktop application for exploring the local-complementation orbits of
+  graph states, with Schmidt-rank and graph-invariant analysis.
+type: software
+authors:
+  - given-names: Chandana
+    family-names: Rao
+    affiliation: >-
+      Institute for Photonic Quantum Systems (PhoQS) and Department of
+      Physics, Paderborn University, D-33098 Paderborn, Germany
+  - given-names: Ilian
+    family-names: Ikurt
+    affiliation: >-
+      Department of Computer Science, Paderborn University, D-33098
+      Paderborn, Germany
+license: MIT
+repository-code: "https://github.com/Chandana-Rao-A-S/Graph_State_Orbit_Explorer"
+keywords:
+  - graph states
+  - local complementation
+  - local Clifford equivalence
+  - entanglement
+  - Schmidt rank
+  - quantum information

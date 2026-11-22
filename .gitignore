@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+
+# PyInstaller output (graphCreator.spec itself is part of the project)
+build/
+dist/
+
+# Test and coverage output
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editors and operating system
+.idea/
+.vscode/
+*.swp
+.DS_Store

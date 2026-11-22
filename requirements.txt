@@ -1,0 +1,10 @@
+# Graph State Orbit Explorer: Python dependencies (Linux, Python 3.10 or newer).
+#
+# Tkinter is part of Python but most Linux distributions ship it as a separate
+# system package (Debian/Ubuntu: python3-tk, Fedora: python3-tkinter).
+# pynauty is compiled from source unless a prebuilt package exists for your
+# system; this needs a C compiler and make (Debian/Ubuntu: build-essential).
+networkx>=3.2
+numpy>=1.26
+pynauty>=2.8.8
+tqdm>=4.66
